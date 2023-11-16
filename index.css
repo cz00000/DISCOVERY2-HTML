@@ -104,13 +104,16 @@
     top: var(--dl-space-space-halfunit);
     left: var(--dl-space-space-halfunit);
     right: var(--dl-space-space-halfunit);
-    width: 777px;
+    width: 756px;
     bottom: 90px;
-    height: 438px;
+    height: 427px;
     position: absolute;
   }
   .home-container4 {
+    width: 693px;
     height: 197px;
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
     padding-bottom: 14px;
   }
   .home-text13 {
@@ -128,9 +131,13 @@
     width: 715px;
     height: 852px;
   }
+  .home-container3 {
+    width: 614px;
+    height: 228px;
+  }
   .home-iframe {
-    width: 609px;
-    height: 351px;
+    width: 763px;
+    height: 422px;
   }
   .home-container4 {
     width: 477px;
