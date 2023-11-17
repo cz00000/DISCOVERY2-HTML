@@ -8,8 +8,8 @@
   background-color: #ffc4e9;
 }
 .home-container1 {
-  width: 1058px;
-  height: 193px;
+  width: 478px;
+  height: 143px;
   display: flex;
   align-self: center;
   margin-top: var(--dl-space-space-threeunits);
@@ -17,13 +17,17 @@
   border-color: #000000;
   border-style: solid;
   border-width: 5px;
+  margin-bottom: 71px;
   flex-direction: column;
   justify-content: center;
   background-color: #ff88e5;
 }
+.home-text {
+  font-size: 70px;
+}
 .home-container2 {
   width: 924px;
-  height: 933px;
+  height: 1053px;
   display: flex;
   position: relative;
   align-self: center;
@@ -41,22 +45,24 @@
 .home-text01 {
   align-self: center;
 }
-.home-iframe {
-  width: 320px;
-  height: 200px;
-}
 .home-container3 {
+  left: 0px;
+  right: 0px;
   width: 632px;
-  height: 167px;
+  bottom: 64px;
+  height: 200px;
+  margin: auto;
   display: flex;
   z-index: 100;
+  position: absolute;
   align-self: center;
-  box-shadow: 5px 5px 10px 0px #d4d4d4;
   align-items: flex-start;
   border-color: #000000;
   border-style: solid;
   border-width: 5px;
+  padding-left: 13px;
   border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-halfunit);
   flex-direction: column;
   background-color: #be66ff;
 }
@@ -65,13 +71,48 @@
   margin-top: var(--dl-space-space-oneandhalfunits);
 }
 .home-container4 {
+  top: 113px;
+  left: 115px;
+  width: 677px;
+  height: 282px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  padding-top: 37px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5PX;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: center;
+  background-color: #c758ff;
+}
+.home-text11 {
+  top: 35px;
+  left: -1px;
+  margin: auto;
+  position: absolute;
+}
+.home-text14 {
+  align-self: center;
+}
+.home-container5 {
   flex: 0 0 auto;
-  width: 200px;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: 100px;
   display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-iframe {
+  top: 330px;
+  left: 174px;
+  width: 468px;
+  height: 285px;
+  position: absolute;
 }
 @media(max-width: 991px) {
   .home-container1 {
@@ -100,20 +141,6 @@
   .home-text08 {
     align-self: center;
   }
-  .home-container4 {
-    top: 152px;
-    left: 55px;
-    width: 698px;
-    height: 277px;
-    margin: auto;
-    position: absolute;
-    border-color: #000000;
-    border-style: solid;
-    border-width: 5px;
-    padding-left: var(--dl-space-space-oneandhalfunits);
-    padding-right: var(--dl-space-space-oneandhalfunits);
-    background-color: #d52dfd;
-  }
   .home-text11 {
     align-self: center;
   }
@@ -127,18 +154,34 @@
     height: 113px;
     margin-bottom: var(--dl-space-space-fourunits);
     padding-bottom: 0px;
+    background-color: #ff43d6;
   }
   .home-container2 {
     width: 692px;
     height: 1037px;
     align-self: center;
     padding-bottom: 0px;
+    background-color: #f55ede;
   }
   .home-text01 {
     height: 41px;
     box-shadow: 5px 5px 10px 0px #000000;
     border-color: var(--dl-color-gray-black);
     border-width: 3px;
+  }
+  .home-container3 {
+    left: 0px;
+    right: 0px;
+    width: 543px;
+    bottom: 50px;
+    height: 225px;
+    margin: auto;
+    position: absolute;
+    box-shadow: 5px 5px 10px 0px #000000;
+    background-color: #702dfd;
+  }
+  .home-text08 {
+    font-size: 15px;
   }
   .home-iframe {
     top: 350px;
@@ -147,28 +190,6 @@
     height: 290px;
     position: absolute;
     align-self: center;
-  }
-  .home-container3 {
-    left: 0px;
-    right: 0px;
-    width: 543px;
-    bottom: 40px;
-    height: 225px;
-    margin: auto;
-    box-shadow: 5px 5px 10px 0px #000000;
-    margin-bottom: auto;
-  }
-  .home-text08 {
-    font-size: 15px;
-  }
-  .home-container4 {
-    left: 0px;
-    right: 0px;
-    width: 583px;
-    height: 262px;
-    margin: auto;
-    padding-top: 21px;
-    padding-bottom: 44px;
   }
 }
 @media(max-width: 479px) {
