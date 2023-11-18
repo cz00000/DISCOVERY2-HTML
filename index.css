@@ -58,13 +58,13 @@
   left: 0px;
   right: 0px;
   width: 899px;
-  height: 345px;
+  height: 423px;
   margin: auto;
   display: flex;
   opacity: 1;
   position: absolute;
   box-shadow: 5px 5px 10px 0px #000000,5px 5px 10px 0px #d4d4d4;
-  align-items: center;
+  align-items: flex-start;
   border-color: var(--dl-color-gray-black);
   border-width: 5px;
   margin-bottom: auto;
@@ -75,9 +75,9 @@
   display: contents;
 }
 .home-container4 {
-  top: 44px;
+  top: 110px;
   flex: 0 0 auto;
-  left: 59px;
+  left: 68px;
   width: 195px;
   height: 45px;
   margin: auto;
@@ -100,8 +100,8 @@
   display: contents;
 }
 .home-pasted-image {
-  top: 110px;
-  left: 25px;
+  top: 174px;
+  left: 30px;
   width: 266px;
   height: 198px;
   position: absolute;
@@ -113,7 +113,7 @@
   display: contents;
 }
 .home-container5 {
-  top: 45px;
+  top: 110px;
   flex: 0 0 auto;
   left: 0px;
   right: 0px;
@@ -137,9 +137,8 @@
   display: contents;
 }
 .home-pasted-image1 {
-  top: 110px;
-  left: 0px;
-  right: 0px;
+  top: 175px;
+  left: 317px;
   width: 266px;
   height: 198px;
   margin: auto;
@@ -152,9 +151,10 @@
   display: contents;
 }
 .home-pasted-image2 {
-  top: 110px;
-  right: 27px;
+  top: 175px;
+  right: 18px;
   width: 266px;
+  bottom: 28px;
   height: 198px;
   position: absolute;
   border-color: var(--dl-color-gray-black);
@@ -162,9 +162,9 @@
   text-decoration: none;
 }
 .home-container6 {
-  top: 45px;
+  top: 110px;
   flex: 0 0 auto;
-  right: 63px;
+  right: 51px;
   width: 195px;
   height: 45px;
   display: flex;
@@ -183,6 +183,31 @@
 .home-text08 {
   font-family: "Comic Sans MS";
   text-decoration: none;
+}
+.home-container7 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  color: var(--dl-color-gray-black);
+  right: 0px;
+  width: 438px;
+  height: 58px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #86ffb9;
+}
+.home-text11 {
+  font-family: "Comic Sans MS";
+}
+.home-text12 {
+  font-family: "Comic Sans MS";
 }
 @media(max-width: 991px) {
   .home-container1 {
