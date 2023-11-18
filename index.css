@@ -76,6 +76,14 @@
 .home-text10 {
   font-family: "Noto Sans";
 }
+.home-image {
+  top: -741px;
+  right: -22px;
+  width: 141px;
+  height: 65px;
+  position: absolute;
+  object-fit: cover;
+}
 .home-container4 {
   top: 113px;
   left: 115px;
@@ -114,7 +122,7 @@
 }
 @media(max-width: 991px) {
   .home-container1 {
-    width: 839px;
+    width: 531px;
     margin-right: 0px;
   }
   .home-text {
@@ -139,8 +147,22 @@
   .home-text08 {
     align-self: center;
   }
+  .home-image {
+    top: -806px;
+    right: 10px;
+  }
+  .home-container4 {
+    top: 131px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
   .home-text11 {
     align-self: center;
+  }
+  .home-iframe {
+    top: 338px;
+    left: 118px;
   }
 }
 @media(max-width: 767px) {
