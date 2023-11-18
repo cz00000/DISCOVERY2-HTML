@@ -29,11 +29,36 @@
   font-family: "Comic Sans MS";
 }
 .home-container2 {
+  top: 228px;
+  left: 0px;
+  right: 0px;
+  width: 389px;
+  height: 77px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #000000;
+  align-items: flex-start;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5PX;
+  flex-direction: column;
+  background-color: #D9D9D9;
+}
+.home-text01 {
   top: 249px;
   left: 0px;
   right: 0px;
-  width: 903px;
-  height: 413px;
+  width: 358px;
+  margin: auto;
+  position: absolute;
+}
+.home-container3 {
+  top: 341px;
+  left: 0px;
+  right: 0px;
+  width: 899px;
+  height: 345px;
   margin: auto;
   display: flex;
   opacity: 1;
@@ -49,10 +74,10 @@
 .home-link {
   display: contents;
 }
-.home-container3 {
-  top: 92px;
+.home-container4 {
+  top: 44px;
   flex: 0 0 auto;
-  left: 62px;
+  left: 59px;
   width: 195px;
   height: 45px;
   margin: auto;
@@ -68,15 +93,15 @@
   text-decoration: none;
   background-color: #90cbff;
 }
-.home-text1 {
+.home-text04 {
   font-family: "Comic Sans MS";
 }
 .home-link1 {
   display: contents;
 }
 .home-pasted-image {
-  top: 147px;
-  left: 28px;
+  top: 110px;
+  left: 25px;
   width: 266px;
   height: 198px;
   position: absolute;
@@ -87,12 +112,14 @@
 .home-link2 {
   display: contents;
 }
-.home-container4 {
-  top: 92px;
+.home-container5 {
+  top: 45px;
   flex: 0 0 auto;
-  left: 345px;
+  left: 0px;
+  right: 0px;
   width: 195px;
   height: 45px;
+  margin: auto;
   display: flex;
   position: absolute;
   align-items: center;
@@ -103,17 +130,19 @@
   text-decoration: none;
   background-color: #f4a0ff;
 }
-.home-text3 {
+.home-text06 {
   font-family: "Comic Sans MS";
 }
 .home-link3 {
   display: contents;
 }
 .home-pasted-image1 {
-  top: 148px;
-  left: 307px;
+  top: 110px;
+  left: 0px;
+  right: 0px;
   width: 266px;
   height: 198px;
+  margin: auto;
   position: absolute;
   border-color: var(--dl-color-gray-black);
   border-width: 5PX;
@@ -123,8 +152,8 @@
   display: contents;
 }
 .home-pasted-image2 {
-  top: 148px;
-  right: 35px;
+  top: 110px;
+  right: 27px;
   width: 266px;
   height: 198px;
   position: absolute;
@@ -132,10 +161,10 @@
   border-width: 5px;
   text-decoration: none;
 }
-.home-container5 {
-  top: 92px;
+.home-container6 {
+  top: 45px;
   flex: 0 0 auto;
-  right: 78px;
+  right: 63px;
   width: 195px;
   height: 45px;
   display: flex;
@@ -151,7 +180,7 @@
 .home-link5 {
   display: contents;
 }
-.home-text5 {
+.home-text08 {
   font-family: "Comic Sans MS";
   text-decoration: none;
 }
