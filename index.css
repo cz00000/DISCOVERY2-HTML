@@ -24,6 +24,7 @@
 }
 .home-text {
   font-size: 70px;
+  font-family: "Comic Sans MS";
 }
 .home-container2 {
   width: 924px;
@@ -44,6 +45,7 @@
 }
 .home-text01 {
   align-self: center;
+  font-family: "Comic Sans MS";
 }
 .home-container3 {
   left: 0px;
@@ -69,6 +71,10 @@
 .home-text05 {
   align-self: center;
   margin-top: var(--dl-space-space-oneandhalfunits);
+  font-family: "Noto Sans";
+}
+.home-text10 {
+  font-family: "Noto Sans";
 }
 .home-container4 {
   top: 113px;
@@ -97,6 +103,7 @@
 }
 .home-text14 {
   align-self: center;
+  font-family: "Comic Sans MS";
 }
 .home-iframe {
   top: 450px;
@@ -145,14 +152,11 @@
     height: 113px;
     margin-bottom: var(--dl-space-space-fourunits);
     padding-bottom: 0px;
-    background-color: #ff43d6;
   }
   .home-container2 {
     width: 692px;
     height: 1037px;
-    align-self: center;
     padding-bottom: 0px;
-    background-color: #f55ede;
   }
   .home-text01 {
     height: 41px;
@@ -169,7 +173,6 @@
     margin: auto;
     position: absolute;
     box-shadow: 5px 5px 10px 0px #000000;
-    background-color: #702dfd;
   }
   .home-text08 {
     font-size: 15px;
