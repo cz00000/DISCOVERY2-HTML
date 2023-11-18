@@ -84,7 +84,9 @@
   font-family: "Noto Sans";
 }
 .home-text008 {
+  color: var(--dl-color-gray-black);
   align-self: center;
+  font-family: "Comic Sans MS";
 }
 .home-text014 {
   font-style: normal;
@@ -149,90 +151,76 @@
 .home-text083 {
   font-style: normal;
 }
-.home-text086 {
+.home-text084 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text087 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text088 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text089 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text090 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text091 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text092 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text093 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text094 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text095 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text096 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text097 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text098 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text099 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text100 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text101 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text102 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text103 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text104 {
   font-style: normal;
-  font-family: "Arial";
 }
 .home-text105 {
   font-style: normal;
-  font-family: "Arial";
+}
+.home-text106 {
+  font-style: normal;
+}
+.home-text107 {
+  font-style: normal;
 }
 .home-image {
-  left: 20x;
+  left: 20px;
   width: 550px;
-  bottom: 33px;
+  bottom: 14px;
   height: 330x;
   position: absolute;
   object-fit: cover;
@@ -289,7 +277,7 @@
   justify-content: center;
   background-color: #ff97b7;
 }
-.home-text117 {
+.home-text119 {
   align-self: center;
   font-family: "Comic Sans MS";
 }
@@ -333,7 +321,7 @@
     right: 0px;
     margin: auto;
   }
-  .home-text108 {
+  .home-text110 {
     align-self: center;
   }
   .home-iframe1 {
