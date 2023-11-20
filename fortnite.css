@@ -1,0 +1,337 @@
+.fortnite-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #00b3ff;
+}
+.fortnite-icon {
+  top: -46px;
+  fill: #ffffff;
+  left: -98px;
+  width: 495px;
+  height: 282px;
+  position: absolute;
+}
+.fortnite-icon02 {
+  fill: #ffffff;
+  right: -261px;
+  width: 689px;
+  bottom: -84px;
+  height: 386px;
+  position: absolute;
+}
+.fortnite-icon04 {
+  top: -37px;
+  fill: #ffffff;
+  right: -32px;
+  width: 588px;
+  height: 348px;
+  position: absolute;
+}
+.fortnite-icon06 {
+  top: 419px;
+  fill: #ffffff;
+  left: -307px;
+  width: 528px;
+  height: 344px;
+  position: absolute;
+}
+.fortnite-icon08 {
+  top: 166px;
+  fill: #ffffff;
+  left: 122px;
+  width: 327px;
+  height: 188px;
+  position: absolute;
+}
+.fortnite-icon10 {
+  top: 174px;
+  fill: #ffffff;
+  right: -241px;
+  width: 492px;
+  height: 322px;
+  position: absolute;
+}
+.fortnite-icon12 {
+  top: 833px;
+  fill: var(--dl-color-primary-300);
+  left: 142px;
+  width: 382px;
+  height: 200px;
+  position: absolute;
+}
+.fortnite-navlink {
+  display: contents;
+}
+.fortnite-text {
+  text-decoration: none;
+}
+.fortnite-container1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.fortnite-container2 {
+  top: 114px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 494px;
+  height: 158px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5PX;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #fb90ec;
+}
+.fortnite-text01 {
+  top: 33px;
+  left: 0px;
+  right: 0px;
+  width: 436px;
+  margin: auto;
+  position: absolute;
+  font-size: 5em;
+  align-self: center;
+  font-family: "Comic Sans MS";
+}
+.fortnite-container3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.fortnite-container4 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.fortnite-container5 {
+  width: 776px;
+  height: 354px;
+  display: flex;
+  margin-top: 329px;
+  align-items: center;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #f39ef9;
+}
+.fortnite-text04 {
+  margin-top: 22px;
+  font-family: "Comic Sans MS";
+  border-color: var(--dl-color-gray-black);
+  border-width: 3px;
+  margin-bottom: var(--dl-space-space-unit);
+  background-color: #ff9a9a;
+}
+.fortnite-text05 {
+  font-size: 20px;
+}
+.fortnite-iframe {
+  width: 549px;
+  height: 338px;
+  margin-top: 39px;
+  margin-bottom: var(--dl-space-space-fourunits);
+}
+.fortnite-container6 {
+  width: 764px;
+  height: 638px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-sixunits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #f2aaf9;
+}
+.fortnite-text06 {
+  margin-top: 30px;
+  font-family: "Comic Sans MS";
+  border-color: var(--dl-color-gray-black);
+  border-width: 3px;
+  margin-bottom: 35px;
+  background-color: #f77f7f;
+}
+.fortnite-text09 {
+  align-self: center;
+}
+.fortnite-text10 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text11 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text12 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text13 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text14 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text15 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text16 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text17 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text18 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text19 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text20 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text21 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text22 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text23 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text24 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-text25 {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+}
+.fortnite-icon14 {
+  top: 743px;
+  fill: var(--dl-color-primary-100);
+  left: 232px;
+  width: 152px;
+  height: 121px;
+  position: absolute;
+}
+@media(max-width: 991px) {
+  .fortnite-icon02 {
+    margin-bottom: 0px;
+  }
+  .fortnite-icon06 {
+    top: 454px;
+    left: -435px;
+    width: 735px;
+    height: 432px;
+  }
+  .fortnite-icon08 {
+    top: 141px;
+    left: -143px;
+    width: 402px;
+    height: 275px;
+  }
+  .fortnite-icon10 {
+    top: 154px;
+    right: -230px;
+    width: 434px;
+    height: 293px;
+  }
+  .fortnite-container2 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+  }
+  .fortnite-container5 {
+    margin-top: 296px;
+    margin-bottom: 28px;
+  }
+  .fortnite-iframe {
+    width: 567px;
+    height: 341px;
+    margin-top: 0px;
+    margin-bottom: 1080px;
+  }
+  .fortnite-container6 {
+    top: 1102px;
+    left: 0px;
+    right: 0px;
+    width: 652px;
+    height: 996px;
+    margin: auto;
+    position: absolute;
+    border-color: #000000;
+    background-color: #ff72f5;
+  }
+}
+@media(max-width: 767px) {
+  .fortnite-container {
+    background-color: #00b3ff;
+  }
+  .fortnite-icon {
+    top: -30px;
+    left: 108px;
+  }
+  .fortnite-icon04 {
+    top: 31px;
+    right: -292px;
+  }
+  .fortnite-icon06 {
+    top: 484px;
+    left: -497px;
+  }
+  .fortnite-icon08 {
+    top: 124px;
+    left: -173px;
+  }
+  .fortnite-icon10 {
+    top: 552px;
+    right: -189px;
+    width: 319px;
+    height: 296px;
+    position: absolute;
+  }
+  .fortnite-container5 {
+    width: 641px;
+    height: 428px;
+  }
+}
+@media(max-width: 479px) {
+  .fortnite-container {
+    background-color: #ffc4e9;
+  }
+}

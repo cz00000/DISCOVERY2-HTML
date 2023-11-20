@@ -1,0 +1,235 @@
+.valorant-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #57ceff;
+}
+.valorant-navlink {
+  display: contents;
+}
+.valorant-text {
+  text-decoration: none;
+}
+.valorant-container1 {
+  flex: 0 0 auto;
+  width: 586px;
+  height: 108px;
+  display: flex;
+  margin-top: 60px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5PX;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ff7c7c;
+}
+.valorant-text01 {
+  font-size: 5em;
+  font-family: "Comic Sans MS";
+}
+.valorant-icon {
+  top: 123px;
+  left: 1129px;
+  width: 226px;
+  height: 129px;
+  position: absolute;
+}
+.valorant-icon04 {
+  left: -75px;
+  width: 302px;
+  bottom: 0px;
+  height: 206px;
+  position: absolute;
+}
+.valorant-icon06 {
+  top: 431px;
+  left: -20px;
+  width: 850px;
+  height: 276px;
+  position: absolute;
+}
+.valorant-icon08 {
+  top: 198px;
+  left: 1103px;
+  width: 197px;
+  height: 67px;
+  position: absolute;
+}
+.valorant-container2 {
+  width: 680px;
+  height: 3575px;
+  display: flex;
+  position: relative;
+  margin-top: 66px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5PX;
+  margin-bottom: 59px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-primary-700);
+}
+.valorant-container3 {
+  width: 576px;
+  height: 424px;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 5px;
+  margin-bottom: 35px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-danger-500);
+}
+.valorant-text04 {
+  width: 231px;
+  height: 53px;
+  margin-top: 37px;
+  font-family: "Comic Sans MS";
+  border-color: var(--dl-color-gray-black);
+  border-width: 3px;
+  background-color: #caff8b;
+}
+.valorant-container4 {
+  width: 552px;
+  height: 284px;
+  display: flex;
+  margin-top: 37px;
+  align-items: center;
+  padding-top: 18px;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+  padding-left: 14px;
+  margin-bottom: 57px;
+  padding-right: 14px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #f3a8b8;
+}
+.valorant-text05 {
+  font-family: "Comic Sans MS";
+}
+.valorant-iframe {
+  width: 439px;
+  height: 253px;
+  margin-top: 36px;
+  margin-bottom: 41px;
+}
+.valorant-iframe1 {
+  width: 445px;
+  height: 249px;
+}
+.valorant-icon10 {
+  right: -21px;
+  width: 91px;
+  bottom: -2px;
+  height: 56px;
+  position: absolute;
+}
+.valorant-container5 {
+  width: 584px;
+  height: 2411px;
+  display: flex;
+  margin-top: 57px;
+  align-items: center;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+  padding-left: 29px;
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #826af5;
+}
+.valorant-text12 {
+  margin-top: 11px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 3px;
+  margin-bottom: 27px;
+  background-color: #79c4fd;
+}
+.valorant-text13 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text15 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text21 {
+  font-style: normal;
+  font-weight: 700;
+}
+.valorant-text25 {
+  font-style: normal;
+  font-weight: 700;
+}
+.valorant-container6 {
+  width: 520px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 285px;
+  display: flex;
+  margin-top: 12px;
+  align-items: center;
+  margin-bottom: 19px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/external/pastedimage-s2j6-600w.png");
+  background-position: center;
+}
+.valorant-text27 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text28 {
+  font-style: normal;
+  font-weight: 700;
+}
+.valorant-image {
+  width: 504px;
+  height: 279px;
+  object-fit: cover;
+}
+.valorant-text34 {
+  font-style: normal;
+  font-family: "Comic Sans MS";
+  font-weight: 700;
+}
+.valorant-text35 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text36 {
+  font-family: "Comic Sans MS";
+}
+.valorant-image1 {
+  width: 516px;
+  height: 285px;
+  object-fit: cover;
+}
+.valorant-text41 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text42 {
+  font-style: normal;
+  font-family: "Comic Sans MS";
+  font-weight: 700;
+}
+.valorant-text43 {
+  font-family: "Comic Sans MS";
+}
+.valorant-text44 {
+  font-family: "Comic Sans MS";
+}
+.valorant-image2 {
+  width: 534px;
+  height: 340px;
+  object-fit: cover;
+}
+.valorant-image3 {
+  width: 510px;
+  height: 325px;
+  object-fit: cover;
+}
